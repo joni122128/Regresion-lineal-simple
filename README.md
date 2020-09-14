@@ -1,5 +1,5 @@
 # Regresión lineal simple
-En este ejemplo cargaremos un archivo .csv de entrada obtenido por webscraping que contiene diversas URLs a artículos sobre Machine Learning de algunos sitios y como características de entrada -las columnas- tendremos:
+En este ejemplo cargaremos un archivo .csv de entrada obtenido por webscraping que contiene diversas URLs a artículos sobre Machine Learning de algunos sitios.
 
 A partir de las características de un artículo de machine learning intentaremos predecir, cuantas veces será compartido en Redes Sociales.
 
